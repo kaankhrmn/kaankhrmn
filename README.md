@@ -12,13 +12,6 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
 ## 🌐 Web Geliştirme Teknolojileri
 
 <table>
-  <thead>
-    <tr>
-      <th>Backend</th>
-      <th>Frontend</th>
-      <th>Tools</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center">
