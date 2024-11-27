@@ -59,7 +59,7 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Microsoft_SQL_Server_logo_2019.svg" width="50" title="MSSQL"/>
+        <img src="https://tr.wikipedia.org/wiki/Microsoft_SQL_Server#/media/Dosya:Logo_M_SQL_Server.png" width="50" title="MSSQL"/>
         <br>MSSQL
       </td>
       <td align="center">
