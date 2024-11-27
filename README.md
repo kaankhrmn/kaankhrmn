@@ -39,7 +39,7 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
         <br>Next.js
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" width="50" title="Docker"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
         <br>Docker
       </td>
     </tr>
@@ -49,7 +49,7 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
         <br>PostgreSQL
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ASP.NET_Core_Logo.svg" width="50" title="ASP.NET Core"/>
+        <img src="https://camo.githubusercontent.com/79aae297a713393da78a9f00798d4822034bfab803ee416989370bf9a8913bbc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f746e6574636f72652e706e67" width="50" title="ASP.NET Core"/>
         <br>ASP.NET Core
       </td>
       <td align="center">
@@ -62,9 +62,12 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" title="SQL"/>
         <br>SQL
       </td>
-      <td align="center"></td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/GitHub_logo_2013.svg" width="50" title="Git"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/.NET_Framework_Logo.png" width="50" title=".NET Framework"/>
+        <br>.NET Framework
+      </td>
+      <td align="center">
+        <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="50" title="Git"/>
         <br>Git
       </td>
     </tr>
