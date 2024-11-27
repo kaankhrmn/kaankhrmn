@@ -15,7 +15,7 @@
       border: 1px solid #ddd;
     }
     img {
-      width: 50px;
+      width: 25px; /* Görselleri küçültüyoruz */
       height: auto;
     }
     td {
