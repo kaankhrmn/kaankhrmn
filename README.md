@@ -4,6 +4,11 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
 
 ---
 
+## İlgi Alanlarım
+- 🌐 Web geliştirme (Frontend & Backend)
+
+---
+
 ## 🌐 Web Geliştirme Teknolojileri
 
 <table>
@@ -82,11 +87,3 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
 - 🎓 Eğitim: **Bandırma 17 Eylül Üniversitesi - Yazılım Mühendisliği**
 - 💬 Bana sormaktan çekinmeyin: **Spring Boot, Next.js, PostgreSQL**
 - 📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/kaan-kahraman-b2451423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKs%2BNZoXZQpuY7sCXpoK5%2BQ%3D%3D) | [GitHub](https://github.com/kaankhrmn)
-
----
-
-## İlgi Alanlarım
-- 🌐 Web geliştirme (Frontend & Backend)
-- 📊 Veri analizi ve görselleştirme
-- 🎮 Oyun geliştirme ve tasarım
-- 🧠 Yapay zeka ve makine öğrenimi
