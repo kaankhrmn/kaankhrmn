@@ -59,8 +59,8 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" title="SQL"/>
-        <br>SQL
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Microsoft_SQL_Server_logo_2019.svg" width="50" title="MSSQL"/>
+        <br>MSSQL
       </td>
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/.NET_Framework_Logo.png" width="50" title=".NET Framework"/>
