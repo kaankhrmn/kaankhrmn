@@ -22,9 +22,7 @@
   </style>
 </head>
 <body>
-
   <h1>Teknolojiler</h1>
-
   <table>
     <tr>
       <th>Backend</th>
