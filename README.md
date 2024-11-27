@@ -62,7 +62,10 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" title="SQL"/>
         <br>SQL
       </td>
-      <td align="center"></td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/.NET_Framework_Logo.png" width="50" title=".NET Framework"/>
+        <br>.NET Framework
+      </td>
       <td align="center">
         <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="50" title="Git"/>
         <br>Git
