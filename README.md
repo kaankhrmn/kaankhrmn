@@ -1,6 +1,7 @@
 # Merhaba! 👋 Ben [Adınız]!
 
 Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme** alanında çalışıyorum. 🚀  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="200" height="200" />
 
 ---
 
