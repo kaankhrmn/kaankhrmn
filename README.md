@@ -79,4 +79,4 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
 - 🌱 Öğreniyorum: **Full Stack Geliştirme (Frontend & Backend)**
 - 🎓 Eğitim: **Bandırma 17 Eylül Üniversitesi - Yazılım Mühendisliği**
 - 💬 Bana sormaktan çekinmeyin: **Spring Boot, Next.js, PostgreSQL**
-- 📫 Bana ulaşın: kaankhrmn.61@gmail.com | [LinkedIn](https://www.linkedin.com/in/kaan-kahraman-b2451423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKs%2BNZoXZQpuY7sCXpoK5%2BQ%3D%3D) | [GitHub](https://github.com/kaankhrmn)
+- 📫 Bana ulaşın: [Email](kaankhrmn.61@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kaan-kahraman-b2451423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKs%2BNZoXZQpuY7sCXpoK5%2BQ%3D%3D) | [GitHub](https://github.com/kaankhrmn)
