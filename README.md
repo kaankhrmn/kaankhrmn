@@ -5,32 +5,71 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
 ---
 
 ## 🌐 Web Geliştirme Teknolojileri
-Aşağıda ilgilendiğim ve üzerinde çalıştığım teknolojileri inceleyebilirsiniz.
 
-### 🚀 Backend Teknolojileri
-
-| Teknoloji   | Logo                                                                                   |
-|-------------|-----------------------------------------------------------------------------------------|
-| **C#**      | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60"/> |
-| **Spring Boot** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="60"/> |
-
----
-
-### 🎨 Frontend Teknolojileri
-
-| Teknoloji   | Logo                                                                                   |
-|-------------|-----------------------------------------------------------------------------------------|
-| **Bootstrap** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60"/> |
-| **Next.js**   | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="60"/> |
-
----
-
-### 🗄️ Veritabanı Teknolojileri
-
-| Teknoloji   | Logo                                                                                   |
-|-------------|-----------------------------------------------------------------------------------------|
-| **SQL**      | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60"/> |
-| **PostgreSQL** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60"/> |
+<table>
+  <thead>
+    <tr>
+      <th>Backend</th>
+      <th>Frontend</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50" title="C#"/>
+        <br>C#
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" title="Bootstrap"/>
+        <br>Bootstrap
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="50" title="Postman"/>
+        <br>Postman
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="50" title="Spring Boot"/>
+        <br>Spring Boot
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" title="Next.js"/>
+        <br>Next.js
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" width="50" title="Docker"/>
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" title="PostgreSQL"/>
+        <br>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ASP.NET_Core_Logo.svg" width="50" title="ASP.NET Core"/>
+        <br>ASP.NET Core
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" title="Swagger"/>
+        <br>Swagger
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" title="SQL"/>
+        <br>SQL
+      </td>
+      <td align="center"></td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/GitHub_logo_2013.svg" width="50" title="Git"/>
+        <br>Git
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -45,3 +84,6 @@ Aşağıda ilgilendiğim ve üzerinde çalıştığım teknolojileri inceleyebil
 
 ## İlgi Alanlarım
 - 🌐 Web geliştirme (Frontend & Backend)
+- 📊 Veri analizi ve görselleştirme
+- 🎮 Oyun geliştirme ve tasarım
+- 🧠 Yapay zeka ve makine öğrenimi
