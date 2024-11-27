@@ -53,10 +53,6 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
         <br>ASP.NET Core
       </td>
       <td align="center">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png](https://camo.githubusercontent.com/c0a96b21e71c128ec67bdc6da00356e9db882612496fca0117ed7a77c468dd6d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667)" width="50" title="Swagger"/>
-        <br>ASP.NET Framework
-      </td>
-      <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" title="Swagger"/>
         <br>Swagger
       </td>
