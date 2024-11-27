@@ -59,7 +59,7 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
     </tr>
     <tr>
       <td align="center">
-        <img src="https://tr.wikipedia.org/wiki/Microsoft_SQL_Server#/media/Dosya:Logo_M_SQL_Server.png" width="50" title="MSSQL"/>
+        <img src="https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" width="50" title="MSSQL"/>
         <br>MSSQL
       </td>
       <td align="center">
