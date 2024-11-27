@@ -39,7 +39,7 @@ Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme*
         <br>Next.js
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" width="50" title="Docker"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
         <br>Docker
       </td>
     </tr>
