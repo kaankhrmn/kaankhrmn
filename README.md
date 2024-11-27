@@ -1,39 +1,37 @@
-# Merhaba! 👋 Ben [Adınız]!
+# Merhaba! 👋 Ben [Kaan]!
 
 Ben bir yazılım mühendisliği öğrencisiyim ve özellikle **web geliştirme** alanında çalışıyorum. 🚀  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="200" height="200" />
 
 ---
 
 ## 🌐 Web Geliştirme Teknolojileri
-Aşağıda ilgilendiğim ve üzerinde çalıştığım teknolojilerin bir listesi ve görselleri yer alıyor.
+Aşağıda ilgilendiğim ve üzerinde çalıştığım teknolojilerin bir listesi tablo halinde yer alıyor.
 
 ### 🚀 Backend Teknolojileri
-- **C#**
-- **Spring Boot**
-- **PostgreSQL**
 
-![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)  
-![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)  
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)  
+| Teknoloji   | Logo                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------|
+| **C#**      | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60"/> |
+| **Spring Boot** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="60"/> |
+| **PostgreSQL** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60"/> |
 
 ---
 
 ### 🎨 Frontend Teknolojileri
-- **Bootstrap**
-- **Next.js**
 
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)  
-![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)  
+| Teknoloji   | Logo                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------|
+| **Bootstrap** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60"/> |
+| **Next.js**   | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="60"/> |
 
 ---
 
 ### 🗄️ Veritabanı Teknolojileri
-- **SQL**
-- **PostgreSQL**
 
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)  
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)  
+| Teknoloji   | Logo                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------|
+| **SQL**      | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60"/> |
+| **PostgreSQL** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60"/> |
 
 ---
 
