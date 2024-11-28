@@ -64,11 +64,11 @@
         <br>TailwindCSS
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Cloud_Logo.svg" width="50" title="Google Cloud"/>
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" title="Google Cloud"/>
         <br>Google Cloud
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Kubernetes-logo.svg" width="50" title="Kubernetes"/>
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" title="Kubernetes"/>
         <br>Kubernetes
       </td>
     </tr>
