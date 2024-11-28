@@ -1,14 +1,3 @@
-# Hi! 👋 I'm Kaan Kahraman
-
-I am a software engineering student, and I am particularly focused on web development. 🚀 
-
----
-
-## İlgi Alanlarım
-- 🌐 Web Development (Frontend & Backend)
-
----
-
 ## 🌐 Web Development Technologies
 
 <table>
@@ -69,14 +58,19 @@ I am a software engineering student, and I am particularly focused on web develo
         <br>Git
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" title="TailwindCSS"/>
+        <br>TailwindCSS
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Cloud_Logo.svg" width="50" title="Google Cloud"/>
+        <br>Google Cloud
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Kubernetes-logo.svg" width="50" title="Kubernetes"/>
+        <br>Kubernetes
+      </td>
+    </tr>
   </tbody>
 </table>
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on: Spring Boot and Next.js projects
-- 🌱 Learning: Full Stack Development (Frontend & Backend)
-- 🎓 Education: Bandırma 17 Eylül University - Software Engineering
-- 💬 Feel free to ask me about: Spring Boot, Next.js, PostgreSQL
-- 📫 Bana ulaşın: [Email](kaankhrmn.61@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kaan-kahraman-b2451423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKs%2BNZoXZQpuY7sCXpoK5%2BQ%3D%3D) | [GitHub](https://github.com/kaankhrmn)
